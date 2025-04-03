@@ -1,0 +1,6 @@
+@JournalPublishingSystem_HostAddress = http://localhost:5213
+
+GET {{JournalPublishingSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
